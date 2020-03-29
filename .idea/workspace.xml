@@ -4,6 +4,7 @@
     <list default="true" id="d2ca7199-da8c-48a1-8317-15723c77c2d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/_css/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,7 +61,9 @@
       <workItem from="1585230088386" duration="96000" />
       <workItem from="1585230201913" duration="23000" />
       <workItem from="1585230238833" duration="875000" />
-      <workItem from="1585483801667" duration="1077000" />
+      <workItem from="1585483801667" duration="3200000" />
+      <workItem from="1585490269641" duration="138000" />
+      <workItem from="1585490423438" duration="154000" />
     </task>
     <task id="LOCAL-00001" summary="site1">
       <created>1585484096050</created>
@@ -69,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585484096050</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="site1">
+      <created>1585488139190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585488139190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,21 +94,25 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="27" key="#Vim_Emulation/0.0.1366.738@0.0.1366.738" timestamp="1585058888644" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1585484094681">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585490583168">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585484094681" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1585490583168" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1585488138197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585488138197" />
     <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1585231038774">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585231038774" />
-    <state x="184" y="11" key="SettingsEditor" timestamp="1585231040314">
+    <state x="259" y="0" key="SettingsEditor" timestamp="1585490578125">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585231040314" />
-    <state x="275" y="90" key="Vcs.Push.Dialog.v2" timestamp="1585484146752">
+    <state x="259" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585490578125" />
+    <state x="275" y="90" key="Vcs.Push.Dialog.v2" timestamp="1585488143058">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="90" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1585484146752" />
+    <state x="275" y="90" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1585488143058" />
   </component>
 </project>
