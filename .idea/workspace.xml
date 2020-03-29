@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2ca7199-da8c-48a1-8317-15723c77c2d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projeto-glass-html5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/fotos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/specs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_fonts/bubblegum-sans-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_fonts/computer-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/botao-enviar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-bateria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-tela.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-touch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/especificacoes-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/especificacoes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/fotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-esquema-marcado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-esquema.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-logo-grd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-logo-med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-logo-peq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-grd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-med.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-peq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-quadro-homem-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-quadro-homem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-quadro-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-endereco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-mensagem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-pagamento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/jornal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/lampada-acesa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/lampada-apagada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/lampada-quebrada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/logo-google-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/mao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/multimidia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/radio-tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video-mini01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video-mini02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video-mini03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/00-divisoes-semanticas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/01-index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/02-specs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/03-fotos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/04-multimidia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/05-fale-conosco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/funcoes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/fale-conosco-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/fotos-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/google-glass-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/index-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/multimidia-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/specs-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fale-conosco.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-glass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimidia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZZod7yCQyDbBZojkFoEnMSyMEw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\superboy\Desktop\WEB DEVELOPER\projeto-glass-html5\_css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ca7199-da8c-48a1-8317-15723c77c2d9" name="Default Changelist" comment="" />
+      <created>1585056062249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585056062249</updated>
+      <workItem from="1585056065509" duration="125000" />
+      <workItem from="1585056204770" duration="2468000" />
+      <workItem from="1585058989538" duration="1394000" />
+      <workItem from="1585076518127" duration="11814000" />
+      <workItem from="1585133030536" duration="9420000" />
+      <workItem from="1585154222853" duration="7470000" />
+      <workItem from="1585225985215" duration="2804000" />
+      <workItem from="1585229164622" duration="145000" />
+      <workItem from="1585229509151" duration="335000" />
+      <workItem from="1585229860667" duration="213000" />
+      <workItem from="1585230088386" duration="96000" />
+      <workItem from="1585230201913" duration="23000" />
+      <workItem from="1585230238833" duration="875000" />
+      <workItem from="1585483801667" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Vim_Emulation" timestamp="1585058888644">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Vim_Emulation/0.0.1366.738@0.0.1366.738" timestamp="1585058888644" />
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1585231038774">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585231038774" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1585231040314">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585231040314" />
+  </component>
+</project>
