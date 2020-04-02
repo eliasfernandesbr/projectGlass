@@ -107,13 +107,14 @@ nav#menu ul {
     list-style: none;
     text-transform: uppercase;
     position: absolute;
-    top: -15px;
-    left: 650px;
+    top: 70px;
+    left: 350px;
+
 }
 
 nav#menu li {
     display: inline-block;
-    background-color: #b9bca4;
+    background-color: #636060;
     padding: 10px;
     margin: 9px;
     border-radius: 5px;
@@ -121,7 +122,7 @@ nav#menu li {
 }
 
 nav#menu li:hover {
-    background-color: #2a9c90;
+    background-color: #c300ff;
     
     
 }
@@ -131,12 +132,13 @@ nav#menu h1 {
 }
 
 nav#menu a {
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
+    
 }
 
 nav#menu a:hover {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 section#corpo {
